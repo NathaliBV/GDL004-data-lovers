@@ -3,6 +3,12 @@ import { getType, getName, getEvolution } from './data.js';
 
 //Mostrar todos los pokémons//
 
+document.getElementById("types-menu").addEventListener('change', (e) => x(e.target.value))
+
+document.getElementsByName("pokemon-name")[0].addEventListener('change', (e) => busquedaPorNombre(e.target.value))
+
+document.getElementById("evolucion").addEventListener('click', evolution)
+
 function renderPokemon(anyArray) {
     let pokemonsDiv = document.getElementById("pokemons-caja");
     pokemonsDiv.innerHTML = `
@@ -50,3 +56,4 @@ document.getElementsByName("pokemon-name")[0].addEventListener('change', (e) => 
       }
 
 document.getElementById("evolucion").addEventListener('click', evolution)
+

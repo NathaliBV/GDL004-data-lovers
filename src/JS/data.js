@@ -19,6 +19,7 @@ export function getName(pokemons, event) {
 
     })
     return pokemon
+
 }
 
 //Evolución//
