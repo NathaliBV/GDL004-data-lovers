@@ -38,7 +38,7 @@ Requerimientos:
 
 Una vez teniendo la información de búsqueda comenzamos a desarrollar un primer boceto:
 
-![](src/images/prototipo1.jpg)
+![](src/images/readme/prototipo1.jpg)
 
 En este primer diseño consideramos tener 3 pantallas, una de bienvenida, otra para búsqueda general y otra donde pudieran filtrar información.
 
@@ -46,9 +46,9 @@ En este primer diseño consideramos tener 3 pantallas, una de bienvenida, otra p
 
 Se desarrolló un prototipo digital en donde se decidieron colores, tipografía y la maquetación, que tendría la página web. El diseño de Interfaz de Usuario se realizó en XD Adobe.
 
-![](src/images/1.png)
-![](src/images/2.png)
-![](src/images/3.png)
+![](src/images/readme/1.png)
+![](src/images/readme/2.png)
+![](src/images/readme/3.png)
 
 
 ### *Testeos de Usabilidad* 📝
@@ -66,9 +66,9 @@ Conclusiones del testeo
 
 ### *Propuesta Final*
 
-![](src/images/5.jpg)
-![](src/images/6.jpg)
-![](src/images/7.jpg)
+![](src/images/readme/5.jpg)
+![](src/images/readme/6.jpg)
+![](src/images/readme/7.jpg)
 
 
 
